@@ -1,8 +1,8 @@
 hello
 world
 test
-watermelom
+watermelon
 mango
 banana
 Apple
-coco
+Coco
